@@ -1,6 +1,6 @@
 <misterromdescription>
 	<name>Alpha Mission</name>
-	<mameversion>0240</mameversion>
+	<mameversion>0193</mameversion>
 	<setname>alphamis</setname>
 	<mratimestamp>20220504</mratimestamp>
 	<year>1985</year>
@@ -33,7 +33,7 @@
 		<dip bits="14,15" name="Start Area" ids="1,2,3,4" values="3,2,1,0"/>
 	</switches>
 
-	<rom index='0' md5="None" type='merged' zip='aso.zip'>
+	<rom index='0' md5="None" type='nonmerged' zip='alphamis.zip'>
 		<!-- main cpu    0x00000-0x0bfff -->
 		<part crc="69af874b" name="p1.8d"/>
 		<part crc="7707bfe3" name="p2.7d"/>
