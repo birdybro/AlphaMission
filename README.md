@@ -16,3 +16,6 @@ This core uses/is based on the following modules from other authors:
 
 # Introduction
 The idea of creating this core was born for several reasons, the main ones being to find an affordable project that would allow me to progress in my knowledge of development in HDL languages and create an FPGA replica as faithful as possible of one of my favorite arcade games from my childhood. I started with a pcb from Alpha Mission and some photocopies of schematics from other similar games and a few months later all that work materialized here.
+
+I would like to thank all the people who in one way or another have given me their support and knowledge.
+
